@@ -7,7 +7,9 @@ Actuellement on peut voir 03 projets d'analyse des donées du monde réel.
 
 ## Arboréscence de projet
 [1. No-Show Appointment](no-show-appointment/Analyse_de_donnees__No_Show_Appointment.ipynb)
+
 [2. Twitter Archive](twitter-archive/wrangle_act.ipynb)
+
 [3. Ford GoBike](ford-gobike/README.md)
 
 ## Notion mis en oeuvre
